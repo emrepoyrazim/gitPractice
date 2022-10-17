@@ -8,6 +8,7 @@ public class GitTest {
 		System.out.println("hello batch12");
 		System.out.println("hello batch12");
 		System.out.println("we ere");
+		System.out.println("hu huuuu");
 
 
 	}
